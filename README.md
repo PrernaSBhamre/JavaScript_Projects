@@ -9,3 +9,7 @@
 3] Calculator:
 
 ![Screenshot (174)](https://github.com/user-attachments/assets/6b69be20-4397-4730-b456-53744ac541f5)
+
+4]Digital Clock:
+
+![Screenshot 2025-04-06 155720](https://github.com/user-attachments/assets/da3b2143-997f-4d6c-a473-eb925f8054d4)
